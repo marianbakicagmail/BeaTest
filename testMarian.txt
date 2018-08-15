@@ -1,1 +1,2 @@
 bug 2 fixed
+feature implemented
